@@ -7,7 +7,6 @@ Practice Repository
 - [CHANGES](#Changes)
 - [DESCRIPTION](#Description)
 - [SAMPLE PROGRAMS](#Sample-Programs)
-- [FILES USED](#files-used)
 - [HELPFUL LINKS](#Helpful_Links)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 
@@ -29,16 +28,6 @@ First sample repository created in order to practice using the different GitHub 
 ## Sample Programs
 
 This is where I will be inserting programs that I have finished or am currently working on. This section is a guide to how proficient my programming skills are and what new things I am attempting to learn.
-
-## Files Used 
-
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
 ## Helpful Links
 
